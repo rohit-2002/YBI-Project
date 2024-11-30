@@ -7,7 +7,9 @@ This repository contains two machine learning projects that utilize regression a
 ### 1. **Bitcoin Price Prediction**
 
 #### Project Description:
-The Bitcoin Price Prediction project leverages historical Bitcoin data to predict the closing price of Bitcoin based on various market-related features. The dataset includes factors like opening price, highest price, lowest price, transactions, mining difficulty, and more. The goal is to train a machine learning model to forecast future prices based on these features.
+The Bitcoin Price Prediction project leverages historical Bitcoin data to predict the closing price of Bitcoin based on various market-related features. 
+The dataset includes factors like opening price, highest price, lowest price, transactions, mining difficulty, and more. The goal is to train a machine 
+learning model to forecast future prices based on these features.
 
 #### Key Features:
 - Historical Bitcoin prices (open, close, high, low)
